@@ -1,16 +1,24 @@
-## Hi there 👋
+# Maria Fernanda López Lourenço Peixoto
 
-<!--
-**whitehairp1n/whitehairp1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação na FIAP (1º ano) · São Paulo, Brasil
+Information Systems student at FIAP (1st year) · São Paulo, Brazil
 
-Here are some ideas to get you started:
+## Estou estudando / Currently learning
+- Python: Introdução à Ciência da Computação (USP)
+- SQL: Khan Academy
+- Suporte de TI: Google IT Support Professional Certificate
+- Computação em nuvem: preparação para AWS Cloud Practitioner
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência / Experience
+- Integração de hardware e software, sensores e interface front-end (RoboCup, robô "Docinho")
+- Organização de dados, relatórios e controles operacionais
+- Tradução técnica inglês ↔ português (inglês C2)
+
+## Objetivo / Goal
+Estágio ou posição inicial em desenvolvimento, dados, QA, suporte de TI ou sistemas.
+Internship or junior role in software development, data, QA, IT support, or systems.
+
+## Contato / Contact
+- LinkedIn: https://www.linkedin.com/in/maria-fernanda-lópez-lourenço-peixoto
+- E-mail: mfllpeixotospc@gmail.com
